@@ -1,0 +1,1 @@
+python main.py  -d CPU -i "Cars - 1900.mp4" -l /opt/intel/computer_vision_sdk/deployment_tools/inference_engine/lib/ubuntu_16.04/intel64/libcpu_extension_sse4.so -o "results/" -m "/home/avirup171/Documents/Intel_AI/test_object/obj_ssd/mobilenet-ssd/FP32/mobilenet-ssd.xml"
